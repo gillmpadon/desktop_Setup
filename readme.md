@@ -65,6 +65,22 @@ Use your converted wmv wallpaper
 #### OUTPUT
 ![Final Ouput](output.png)
 
+
+
+###NEW CHANGES
+###TIPS TO MAKE THE SETUP EVEN CLEANER
+```
+DECREASE ICON SIZE
+TRANSPARENT DOCK
+PUT SHADOW
+CENTER THE DOCKS
+PUT PADDING
+
+```
+#### OUTPUT
+![Final Ouput](cat.png)
+
+
 ## AUTHOR
 GILLBERT PADON
 
